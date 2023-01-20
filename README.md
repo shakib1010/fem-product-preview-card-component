@@ -11,8 +11,8 @@ Users should be able to:
 
 - See hover and focus states for interactive elements
 
-- Solution URL: [Add solution URL here](https://github.com/shakib1010/fem-product-preview-card-component)
-- Live Site URL: [Add live site URL here](https://shakib1010.github.io/fem-product-preview-card-component/)
+- Solution URL: [github](https://github.com/shakib1010/fem-product-preview-card-component)
+- Live Site URL: [live](https://shakib1010.github.io/fem-product-preview-card-component/)
 
 ## My process
 
